@@ -1,0 +1,14 @@
+{
+  "name": "18thwish",
+  "version": "1.0.0",
+  "description": "Wish your loved ones with some crypto-wishes and crypto-gifts on the 18th birthday.",
+  "main": "",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zubair Khalid (zubairkhalidce@gmail.com)",
+  "license": "ISC"
+}
